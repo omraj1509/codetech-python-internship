@@ -142,5 +142,6 @@ This project is for educational purposes as part of the CODTECH internship.
 
 ## 🙋‍♂️ Author
 
-[Your Name] – [Your Email]  
+OMRAJ BHAGWAT SATPUTE – omrajsatpute2003@gmail.com
+
 *Intern at CODTECH*
